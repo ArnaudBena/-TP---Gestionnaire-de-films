@@ -1,1 +1,3 @@
-import fonctions
+from fonctions import *
+
+menu()
